@@ -1,0 +1,3 @@
+let s = "foofoofofo"
+
+export s
